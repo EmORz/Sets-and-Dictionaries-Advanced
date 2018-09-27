@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\AverageStudentGrades\\AverageStudentGrades.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\Sets-and-Dictionaries-Advanced\\AverageStudentGrades\\AverageStudentGrades.csproj",
       "projectName": "AverageStudentGrades",
-      "projectPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\AverageStudentGrades\\AverageStudentGrades.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\Sets-and-Dictionaries-Advanced\\AverageStudentGrades\\AverageStudentGrades.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\AverageStudentGrades\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\Sets-and-Dictionaries-Advanced\\AverageStudentGrades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

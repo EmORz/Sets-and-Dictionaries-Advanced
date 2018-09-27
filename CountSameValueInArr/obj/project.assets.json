@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\CountSameValueInArr\\CountSameValueInArr.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\Sets-and-Dictionaries-Advanced\\CountSameValueInArr\\CountSameValueInArr.csproj",
       "projectName": "CountSameValueInArr",
-      "projectPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\CountSameValueInArr\\CountSameValueInArr.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\Sets-and-Dictionaries-Advanced\\CountSameValueInArr\\CountSameValueInArr.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\CountSameValueInArr\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SetDictionariesLab\\Sets-and-Dictionaries-Advanced\\CountSameValueInArr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

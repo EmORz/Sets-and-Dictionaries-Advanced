@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CountSameValueInArr
 {
-    class Program
+    class Start
     {
         static void Main(string[] args)
         {
