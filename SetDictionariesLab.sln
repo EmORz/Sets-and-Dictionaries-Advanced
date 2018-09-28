@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSameValueInArr", "CountSameValueInArr\CountSameValueInArr.csproj", "{14BF3925-D953-4B23-84A1-5FE62613CDFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountSameValueInArr", "CountSameValueInArr\CountSameValueInArr.csproj", "{14BF3925-D953-4B23-84A1-5FE62613CDFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageStudentGrades", "AverageStudentGrades\AverageStudentGrades.csproj", "{1ABD8A8C-3CFF-457D-91C5-EAE9AD407E58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageStudentGrades", "AverageStudentGrades\AverageStudentGrades.csproj", "{1ABD8A8C-3CFF-457D-91C5-EAE9AD407E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductShop", "ProductShop\ProductShop.csproj", "{228C2FE6-CDE5-4D39-B7F0-710258B563DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesByContinentAndCountry", "CitiesByContinentAndCountry\CitiesByContinentAndCountry.csproj", "{A1780F07-9941-4565-8F96-E6C8C32F27DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordUniqueNames", "RecordUniqueNames\RecordUniqueNames.csproj", "{EB95F927-2525-4B18-BFE1-AE0848FEEB34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{1ABD8A8C-3CFF-457D-91C5-EAE9AD407E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ABD8A8C-3CFF-457D-91C5-EAE9AD407E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ABD8A8C-3CFF-457D-91C5-EAE9AD407E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228C2FE6-CDE5-4D39-B7F0-710258B563DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228C2FE6-CDE5-4D39-B7F0-710258B563DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228C2FE6-CDE5-4D39-B7F0-710258B563DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228C2FE6-CDE5-4D39-B7F0-710258B563DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1780F07-9941-4565-8F96-E6C8C32F27DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1780F07-9941-4565-8F96-E6C8C32F27DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1780F07-9941-4565-8F96-E6C8C32F27DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1780F07-9941-4565-8F96-E6C8C32F27DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB95F927-2525-4B18-BFE1-AE0848FEEB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB95F927-2525-4B18-BFE1-AE0848FEEB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB95F927-2525-4B18-BFE1-AE0848FEEB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB95F927-2525-4B18-BFE1-AE0848FEEB34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

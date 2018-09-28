@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\bin\Debug\netcoreapp2.0\RecordUniqueNames.deps.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\bin\Debug\netcoreapp2.0\RecordUniqueNames.runtimeconfig.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\bin\Debug\netcoreapp2.0\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\bin\Debug\netcoreapp2.0\RecordUniqueNames.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\bin\Debug\netcoreapp2.0\RecordUniqueNames.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.pdb
