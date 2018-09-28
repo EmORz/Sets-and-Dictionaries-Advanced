@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\bin\Debug\netcoreapp2.0\ParkingLot.deps.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\bin\Debug\netcoreapp2.0\ParkingLot.runtimeconfig.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\bin\Debug\netcoreapp2.0\ParkingLot.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\bin\Debug\netcoreapp2.0\ParkingLot.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\bin\Debug\netcoreapp2.0\ParkingLot.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\obj\Debug\netcoreapp2.0\ParkingLot.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\obj\Debug\netcoreapp2.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\obj\Debug\netcoreapp2.0\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\obj\Debug\netcoreapp2.0\ParkingLot.AssemblyInfo.cs
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\obj\Debug\netcoreapp2.0\ParkingLot.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\ParkingLot\obj\Debug\netcoreapp2.0\ParkingLot.pdb
