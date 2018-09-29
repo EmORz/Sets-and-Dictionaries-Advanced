@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\bin\Debug\netcoreapp2.0\CountSymbols.deps.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\bin\Debug\netcoreapp2.0\CountSymbols.runtimeconfig.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\bin\Debug\netcoreapp2.0\CountSymbols.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\bin\Debug\netcoreapp2.0\CountSymbols.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\bin\Debug\netcoreapp2.0\CountSymbols.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\obj\Debug\netcoreapp2.0\CountSymbols.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\obj\Debug\netcoreapp2.0\CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\obj\Debug\netcoreapp2.0\CountSymbols.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\obj\Debug\netcoreapp2.0\CountSymbols.AssemblyInfo.cs
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\obj\Debug\netcoreapp2.0\CountSymbols.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\CountSymbols\obj\Debug\netcoreapp2.0\CountSymbols.pdb

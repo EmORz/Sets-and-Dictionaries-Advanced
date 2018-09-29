@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\bin\Debug\netcoreapp2.0\SetOfElements.deps.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\bin\Debug\netcoreapp2.0\SetOfElements.runtimeconfig.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\bin\Debug\netcoreapp2.0\SetOfElements.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\bin\Debug\netcoreapp2.0\SetOfElements.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\bin\Debug\netcoreapp2.0\SetOfElements.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\obj\Debug\netcoreapp2.0\SetOfElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\obj\Debug\netcoreapp2.0\SetOfElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\obj\Debug\netcoreapp2.0\SetOfElements.AssemblyInfo.cs
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\obj\Debug\netcoreapp2.0\SetOfElements.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\obj\Debug\netcoreapp2.0\SetOfElements.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\SetOfElements\obj\Debug\netcoreapp2.0\SetOfElements.csprojAssemblyReference.cache

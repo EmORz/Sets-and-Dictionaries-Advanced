@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\bin\Debug\netcoreapp2.0\UniqueUsers.deps.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\bin\Debug\netcoreapp2.0\UniqueUsers.runtimeconfig.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\bin\Debug\netcoreapp2.0\UniqueUsers.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\bin\Debug\netcoreapp2.0\UniqueUsers.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\bin\Debug\netcoreapp2.0\UniqueUsers.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.AssemblyInfo.cs
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.pdb

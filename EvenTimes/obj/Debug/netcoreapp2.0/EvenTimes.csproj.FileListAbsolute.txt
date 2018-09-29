@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.deps.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.runtimeconfig.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.AssemblyInfo.cs
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.pdb
