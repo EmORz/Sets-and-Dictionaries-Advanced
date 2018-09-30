@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.deps.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.runtimeconfig.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.runtimeconfig.dev.json
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\bin\Debug\netcoreapp2.0\TheVLogger.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.AssemblyInfo.cs
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.dll
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\TheVLogger\obj\Debug\netcoreapp2.0\TheVLogger.pdb
