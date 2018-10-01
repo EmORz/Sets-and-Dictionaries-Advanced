@@ -8,3 +8,4 @@ C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\Rec
 C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.AssemblyInfo.cs
 C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.dll
 C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\RecordUniqueNames\obj\Debug\netcoreapp2.0\RecordUniqueNames.csprojAssemblyReference.cache

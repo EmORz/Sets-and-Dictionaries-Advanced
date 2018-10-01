@@ -8,14 +8,14 @@ namespace Ranking
     {
         static void Main(string[] args)
         {
-            string firstInput = Console.ReadLine();
+            string input = Console.ReadLine();
             var partZero = new Dictionary<string, string>();
-            var data = new Dictionary<string, Dictionary<string, double>>();
+            var data = new SortedDictionary<string, SortedDictionary<string, SortedSet<double>>>();
 
-            while (firstInput != "end of contests")
+            while (input != "end of contests")
             {
 
-                string[] tokens = firstInput.Split(":");
+                string[] tokens = input.Split(":");
                 string contest = tokens[0];
                 string password = tokens[1];
                 if (!partZero.ContainsKey(contest))
@@ -23,67 +23,87 @@ namespace Ranking
                     partZero.Add(contest, "");
                 }
                 partZero[contest] = password;
-                firstInput = Console.ReadLine();
+                input = Console.ReadLine();
             }
-            firstInput = Console.ReadLine();
-            while (firstInput != "end of submissions")
+            input = Console.ReadLine();
+            while (input != "end of submissions")
             {
-                string[] tokens = firstInput.Split("=>");
+                string[] tokens = input.Split("=>");
                 string contest = tokens[0];
                 string password = tokens[1];
                 string name = tokens[2];
                 double points = double.Parse(tokens[3]);
 
-                if (partZero.ContainsKey(contest)&&partZero.ContainsValue(password))
+                if (partZero.ContainsKey(contest) && partZero.ContainsValue(password))
                 {
                     if (!data.ContainsKey(name))
                     {
-                        data.Add(name, new Dictionary<string, double>());
+                        data.Add(name, new SortedDictionary<string, SortedSet<double>>());
                     }
                     if (!data[name].ContainsKey(contest))
                     {
-                        data[name].Add(contest, 0.0);
+                        data[name].Add(contest, new SortedSet<double>());
                     }
-                    data[name][contest] = points;
+                    data[name][contest].Add(points);
+
                 }
-                firstInput = Console.ReadLine();
+                input = Console.ReadLine();
 
             }
-            Dictionary<string, double> max = new Dictionary<string, double>();
+            var maxResult = 0.0;
+            var searchName = "";
+            var finalName = "";
+            var finalScore = 0.0;
+            var max = new List<double>();
+            var searchBestScore = new Dictionary<string, double>();
+            //
             foreach (var item in data)
             {
-                if (!max.ContainsKey(item.Key))
+                searchName = item.Key;
+                foreach (var score in item.Value)
                 {
-                    max[item.Key] = 0.0;
+                    maxResult += score.Value.Max();
                 }
-                foreach (var i in item.Value)
+                if (!searchBestScore.ContainsKey(searchName))
                 {
-                   
-                    max[item.Key] += i.Value;
+                    searchBestScore.Add(searchName, 0.0);
                 }
+                searchBestScore[searchName] = maxResult;
+                maxResult = 0.0;
             }
-        
-            var str = "";
-            var num = 0.0;
-            foreach (var item in max)
+            var count = 0;
+            foreach (var item in searchBestScore.OrderByDescending(x => x.Key).ThenBy(x => x.Value))
             {
-                if (item.Value>num)
+                if (count == 0)
                 {
-                    num = item.Value;
-                    str = item.Key;
+                    finalName = item.Key;
+                    finalScore = item.Value;
+                    break;
                 }
             }
-            Console.WriteLine($"Best candidate is {str} with total {num} points.");
+            Console.WriteLine($"Best candidate is {finalName} with total {finalScore} points.");
+            //
             Console.WriteLine("Ranking:");
-            foreach (var item in data.OrderBy(x => x.Key).ThenByDescending(z => z.Value))
+            foreach (var item in data)
             {
                 Console.WriteLine(item.Key);
-
-                foreach (var it in item.Value.OrderByDescending(t => t.Value))
+                searchName = item.Key;
+                foreach (var score in item.Value.OrderBy(x => x.Key).ThenByDescending(z => z.Value))
                 {
-                    Console.WriteLine($"#  {it.Key} -> {it.Value}");
+                    Console.Write("#  " + score.Key + " -> ");
+                    Console.WriteLine(score.Value.Max());
+                    maxResult += score.Value.Max();
                 }
+                if (!searchBestScore.ContainsKey(searchName))
+                {
+                    searchBestScore.Add(searchName, 0.0);
+                }
+                searchBestScore[searchName] = maxResult;
+                maxResult = 0.0;
             }
+
+
+
         }
     }
 }

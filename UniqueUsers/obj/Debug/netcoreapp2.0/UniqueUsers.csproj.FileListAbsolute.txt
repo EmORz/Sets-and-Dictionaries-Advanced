@@ -8,3 +8,4 @@ C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\Uni
 C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.AssemblyInfo.cs
 C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.dll
 C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.pdb
+C:\Users\User\source\repos\SetDictionariesLab\Sets-and-Dictionaries-Advanced\UniqueUsers\obj\Debug\netcoreapp2.0\UniqueUsers.csprojAssemblyReference.cache
